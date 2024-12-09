@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from "react";
+/* eslint-disable no-unused-vars */
+import { useEffect } from 'react';
 import Mainlayout from "../Layouts/MainLayout";
 
 const Landing = () => {
